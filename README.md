@@ -1,7 +1,7 @@
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
-# Date:
-# Reg. No.:
+
+# Reg. No.:212223070015
 
 # Aim:
 To demonstrate the ability of text-to-Video generation tools to reproduce an existing Video by crafting precise prompts. The goal is to identify key elements within the Video and use these details to generate an Video as close as possible to the original.
@@ -48,6 +48,21 @@ Tools/LLMs for Video Generation:
 2.	The Final Generated Video: The Video created using your refined prompt.
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated Videos, along with any adjustments made to the prompt.
+
+# Prompt Used
+
+Write a simple description of the video:
+
+“An anime girl walking through a Tokyo street during sunset with cherry blossoms falling around her.”
+# Refine the Prompt with More Detail
+
+Add detailed visual attributes such as color, lighting, mood, and environment:
+
+“A cinematic anime video of a girl walking through a peaceful Tokyo street during sunset, surrounded by blowing cherry blossoms, glowing street lights, warm orange skies, and emotional atmosphere in Studio Ghibli-inspired style.”
+# Generated Output:
+
+https://github.com/user-attachments/assets/025307dc-b019-42c3-a760-dc579c816b0d
+
 
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
